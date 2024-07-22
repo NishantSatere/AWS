@@ -48,10 +48,6 @@ Modify and use the `getObjectUrl` function for downloading files.
 - **getObjectUrl(key)**: Generates a signed URL for downloading an object.
 - **putObject(filename, contentType)**: Generates a signed URL for uploading an object.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Feel free to adjust the content as needed!
