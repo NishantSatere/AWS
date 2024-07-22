@@ -1,3 +1,4 @@
 # AWS
-![Project Logo](/AWS.png)
+
+![Serverless](/AWS.png)
 
