@@ -1,2 +1,3 @@
 # AWS
-![Alt text](/AWS.png)
+![Project Logo](/AWS.png)
+
